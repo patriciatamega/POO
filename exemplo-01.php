@@ -2,7 +2,7 @@
 
 class Pessoa {
 
-    public $nome;//Atributo
+    public $nome;//Atributo (
 
     public function falar(){//Método
 
